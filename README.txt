@@ -1,15 +1,5 @@
-The stem editor tool is command-line only.
+try to convert a stem creator aplication from macosx to linux.  
 
-MAC
-===
+anyone could take a look accessing 
 
-Run:
-
-ni-stem [OPTIONS]
-
-WINDOWS
-=======
-
-Run:
-
-ni-stem.exe [OPTIONS]
+https://colab.research.google.com/drive/1Rw-yF3jaK3q4BYA_SP5wH1R6qGK0QEIU?usp=sharing
